@@ -1,4 +1,4 @@
-# DATA-CLEANING
+# Introduction
 
 Data cleaning involves rectifying or eliminating erroneous, corrupted, duplicated, or partial data within a dataset. Untidy data can result in unreliable results, making the act of cleansing data a critical component of data analysis and an important skill to demonstrate.
 
@@ -61,19 +61,27 @@ Let's check 1st file saved as AB_NYC_2019.csv
 Let us conduct an initial review of the dataset’s structure
 
 
-<img width="604" alt="dfi" src="https://github.com/Releb/DATA-CLEANING/assets/164650018/3f9b38a4-534e-47f8-8a4a-77b772ace8e7">
+
 
 
 There are 1000 rows and 16 columns
 
 Let’s briefly examine the data’s appearance
 
-<img width="353" alt="dfi1" src="https://github.com/Releb/DATA-CLEANING/assets/164650018/5797734b-03e4-4ee5-acce-e995a00da803">
+<img width="787" alt="image" src="https://github.com/Releb/DATA-CLEANING/assets/164650018/6e2b51e6-6158-47f9-9f1e-13871cfaba5a">
+
 
 
 
 
 Distribution graphs (histogram/bar graph) of sampled columns:
+
+
+
+
+<img width="662" alt="plot6" src="https://github.com/Releb/DATA-CLEANING/assets/164650018/d0123dd6-8971-4ecc-8fc9-ae6812f6b333">
+
+
 
 
 <img width="431" alt="chart" src="https://github.com/Releb/DATA-CLEANING/assets/164650018/66b4e878-9655-43e7-a716-080f02d97d28">
@@ -108,4 +116,4 @@ Scatter and density plots:
 
 
 
-<img width="689" alt="plo4" src="https://github.com/Releb/DATA-CLEANING/assets/164650018/ba65f3b3-65c6-415d-a020-1541dd3e4bd6">
+
