@@ -66,9 +66,9 @@ Let us conduct an initial review of the dataset’s structure
 
 There are 1000 rows and 16 columns
 
-Let’s briefly examine the data’s appearance
 
-<img width="787" alt="image" src="https://github.com/Releb/DATA-CLEANING/assets/164650018/6e2b51e6-6158-47f9-9f1e-13871cfaba5a">
+
+
 
 
 
