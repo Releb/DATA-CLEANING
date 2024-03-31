@@ -1,3 +1,12 @@
+
+
+<img width="583" alt="data" src="https://github.com/Releb/DATA-CLEANING/assets/164650018/61fd3b91-d8f5-4549-9c46-bd586e7f6c2e">
+
+
+
+
+
+
 # Introduction
 
 Data cleaning involves rectifying or eliminating erroneous, corrupted, duplicated, or partial data within a dataset. Untidy data can result in unreliable results, making the act of cleansing data a critical component of data analysis and an important skill to demonstrate.
@@ -115,5 +124,9 @@ Scatter and density plots:
 
 
 
+## Conclusion
 
+This concludes your Data analysis! 
+
+😃
 
